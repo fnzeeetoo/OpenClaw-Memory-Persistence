@@ -16,7 +16,7 @@ graph TD
     C[Agent] --> D(Workspace Memory)
     B --> E[Log Rotation]
     D --> E
-
+```
 
 🚀 Installation
 
