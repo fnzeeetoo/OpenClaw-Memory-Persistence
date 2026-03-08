@@ -17,6 +17,7 @@ graph TD
     B --> E[Log Rotation]
     D --> E
 
+
 🚀 Installation
 
 Prerequisites:
